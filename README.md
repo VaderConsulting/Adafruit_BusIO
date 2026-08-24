@@ -2,6 +2,7 @@
 
 This is a library for abstracting away UART, I2C and SPI interfacing. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.11.2. Upstream: <https://github.com/adafruit/Adafruit_BusIO>.
 
+**Source last updated:** 2022-03-01  
 **Language:** C++ / Arduino  
 **Target:** Arduino (*)  
 **Output:** Arduino library
