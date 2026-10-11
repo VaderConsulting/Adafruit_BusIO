@@ -6,4 +6,4 @@ This tree is a working copy of **Adafruit BusIO** by **Adafruit**.
 - Upstream: https://github.com/adafruit/Adafruit_BusIO
 - Version in this copy: 1.11.2
 - License hint: original upstream license terms in this tree (where recorded)
-- VaderConsulting / Dave Robinson did not author the third-party library code.
+- Vader Consulting / Dave Robinson did not author the third-party library code.
